@@ -1,0 +1,23 @@
+
+# Visual Studio build output
+bin/
+obj/
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Local database files
+*.mdf
+*.ldf
+*.bak
+
+# Local configuration secrets
+.env
+.env.*
+# Downloaded NuGet packages
+packages/
+
+# Keep local database configuration private
+App.config
