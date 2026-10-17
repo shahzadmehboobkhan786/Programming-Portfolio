@@ -52,6 +52,7 @@ Important: The actual database and local connection settings are not included in
 
 ![Hotel Management System Dashboard](HotelDashboard.png)
 
+
 Project Purpose
 
 This project demonstrates desktop application development, database connectivity, room and booking management, and billing workflows using C# and SQL Server.
